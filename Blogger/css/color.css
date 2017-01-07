@@ -1,0 +1,28 @@
+a:hover,
+.cat,
+.post-paginations > a,
+.socials > a,
+.tags > a:hover,
+.simple-socials > a:hover,
+.reply,
+.selectors > a.active,
+.post-img.link a{
+	color:#c49b5f;
+}
+
+.simple-btn,
+.share-post > a:hover,
+.widget-title:before,
+blockquote:before,
+blockquote:after,
+form button:hover{
+	background-color:#c49b5f;
+}
+
+
+.share-post > a:hover,
+.rounded-socials > a:hover,
+.tags > a:hover{
+	border-color:#c49b5f;
+}
+
